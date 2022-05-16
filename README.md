@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **open sources.**
 
-- 👨‍💻 All of my projects are available at [https://christinaadev.netlify.app/](christinaadev.netlify.app)
+- 👨‍💻 All of my projects are available at [my site](https://christinaadev.netlify.app/)
 
 - 📫 How to reach me **christinaalara@gmail.com**
 
