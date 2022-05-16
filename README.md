@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @ChristinaaDev</h1>
-<!-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") -->
-<!-- <img src="https://media.giphy.com/media/7d8IdLKjkkTEcnxjWP/giphy.gif)" width="250" height="250"/> -->
+<img src="https://github.com/ChristinaaDev/ChristinaaDev/blob/main/Hi%20%F0%9F%91%8B%2C%20I'm%20%40ChristinaaDev.gif" width="250" height="250"/>
 
-<!-- ![gitHubGif](https://user-images.githubusercontent.com/100986762/167282975-5b9c954f-0996-47bf-81ed-d4ed3a142fa2.gif) -->
 
 - 🌱 I’m currently learning **Object-Oriented Programming**
 
