@@ -1,8 +1,8 @@
 <!-- <h1 align="center">Hi 👋, I'm @ChristinaaDev</h1> -->
 <img src="https://github.com/ChristinaaDev/ChristinaaDev/blob/main/Hi%20%F0%9F%91%8B%2C%20I'm%20%40ChristinaaDev.gif" width="100%" height="350"/>
 
-
-- 🌱 I’m currently learning **Object-Oriented Programming**
+<!-- 
+- 🌱 I’m currently learning **Object-Oriented Programming** -->
 
 - 👯 I’m looking to collaborate on **open sources.**
 
